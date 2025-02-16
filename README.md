@@ -1,3 +1,8 @@
+Web application that users can upload a PDF file, extract structured data from it to a DataFrame, and export the result to an Excel file
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
